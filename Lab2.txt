@@ -1,1 +1,0 @@
-Câu 1: các công cụ sử dụng để làm project là: XAMPP, balsamiq dùng để tạo mockup, Visual code
